@@ -1,16 +1,18 @@
-# app
+<img src="https://i.imgur.com/XSFK6Br.png" />
 
-A new Flutter project.
+# Técnica para usar com FutureBuilder
 
-## Getting Started
+Neste projeto é apresentado uma técnica que uso para desenvolver com o Widget [FutureBuilder][3] para montar a interface visual do usuário baseada em estados no [Flutter][2].
 
-This project is a starting point for a Flutter application.
+Apresentado por [Alessandro Dutra de Andrade (Cachopaweb)][1].
 
-A few resources to get you started if this is your first Flutter project:
+## Expert
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| [<img src="https://github.com/cachopaweb.png" width="75px;"/>][1] |
+| :-: |
+|[Creator][1]|
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+[1]: https://github.com/cachopaweb
+[2]: https://flutter.dev/
+[3]: https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html
